@@ -6,10 +6,10 @@ Bienvenido a Sátira Política, un espacio dedicado a la catalogación, análisi
 **Jonathan Swift**
 
 
-## 📚 Colecciones Destacadas
+**📚 COLECCIONES DESTACADAS**
 
 
-### 1. Absurdismo Estatal y Distopías
+**1. Absurdismo Estatal y Distopías**
 
 Obras que exploran los excesos del poder, la burocracia y el control social a través de la ironía y el alegato político.
 
@@ -18,7 +18,7 @@ Obras que exploran los excesos del poder, la burocracia y el control social a tr
 * **Un mundo feliz** — *Aldous Huxley*
 
 
-### 2. Clásicos de la Sátira e Ironía
+**2. Clásicos de la Sátira e Ironía**
 
 Textos fundamentales que fundaron la crítica social a través del humor negro y la parodia.
 
@@ -27,12 +27,12 @@ Textos fundamentales que fundaron la crítica social a través del humor negro y
 * **Cándido o el optimismo** — *Voltaire*
 
 
-### 3. Poder, Retórica y Crítica Contemporánea
+**3. Poder, Retórica y Crítica Contemporánea**
 
 Análisis de la política moderna, la propaganda y el discurso ideológico.
 
 
-## 💬 Espacio de Debate e Intercambio
+**💬 ESPACIO DE DEBATE E INTERCAMBIO**
 
 Este sitio busca promover la discusión de ideas entre diferentes posturas ideológicas. Para participar de manera constructiva:
 
